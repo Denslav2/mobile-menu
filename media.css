@@ -1,0 +1,14 @@
+@media screen and (max-width: 580px){
+    .menu__list{
+        display: none;
+    }
+    .menu__link{
+        color: rgb(83, 83, 83);
+    }
+    .mobmenu{
+        display: flex;
+    }
+    .mobmenu__icon{
+        display: block;
+    }
+}
